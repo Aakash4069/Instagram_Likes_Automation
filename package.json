@@ -1,0 +1,29 @@
+{
+  "name": "activity_sir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pupp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "chromedriver": "^89.0.0",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "webdriver": "^6.1.17"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakash4069/Instagram_Likes_Automation.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Aakash4069/Instagram_Likes_Automation/issues"
+  },
+  "homepage": "https://github.com/Aakash4069/Instagram_Likes_Automation#readme"
+}
